@@ -66,3 +66,4 @@ public class Main {
         System.out.println("Thanks for using MyConsoleCalc! Bye :)");
     }
 }
+
